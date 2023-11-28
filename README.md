@@ -1,6 +1,6 @@
-# CRUD_Application_Node
+# CRUD_User_Management_System
 
-In this project, we are going to create node CRUD application with express and mongodb.
+In this project, I have created a CRUD application with node expressJS and Mongodb.
 
 #### To Run this project Clone it and install modules using
 
@@ -17,4 +17,4 @@ npm start
 
 Enjoy...!
 
-<!-- GKdcR6qUTmuL52HO -->
+<!---->
